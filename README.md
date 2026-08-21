@@ -40,7 +40,7 @@ The dataset covers major arterial routes across Lagos, including:
 * **Apapa-Oshodi Expressway** — Mile 2–Oshodi
 * **Lagos-Badagry Expressway** — Mile 2–Festac
 * **Funsho Williams Avenue**
-* **Lagos-Abeokuta Expressway**
+* **Lagos-Abeokuta Expressway** - Abule Egba - Iyana Ipaja
 
 ### 🔎 Features
 
