@@ -1,4 +1,4 @@
-# 🚦 Lagos Traffic Congestion Predictor
+# 🚦 Lagos - Traffic Congestion Predictor
 
 An end-to-end machine learning system for predicting road traffic congestion across major transit corridors in Lagos, Nigeria. The project uses **temporal, spatial, and meteorological features** to classify traffic conditions as either normal or congested.
 
