@@ -1,0 +1,249 @@
+S/N,date,road,fixed_corridor,observation_time,time_block,day,weather,temperature,rain_chance,traffic_level,traffic_score,traffic_pattern,congestion_location
+1,07/08/26,third mainland bridge,oworonshole – adekunle,16:00:00,16:00:00,Friday,partly cloudy,28,0.25,low,1,G,none evident
+2,07/08/26,ikorodu road,unknown,16:04:00,16:00:00,Friday,partly cloudy,28,0.25,medium,2,G/Y,mixed
+3,07/08/26,lagos-ibadan expy,ojota-berger,16:06:00,16:00:00,Friday,partly cloudy,28,0.25,low,1,G,none evident
+4,07/08/26,apapa-oshodi expy,mile2-oshodi,16:07:00,16:00:00,Friday,partly cloudy,28,0.25,low,1,G/Y/R,junction
+5,07/08/26,lekki-epe expy,lekkiphase1-ajah,16:08:00,16:00:00,Friday,partly cloudy,28,0.25,low,1,G/Y/R,road segment
+6,07/08/26,lagos-badagry expy,mile2-festac,16:09:00,16:00:00,Friday,partly cloudy,28,0.25,low,1,G/Y,mixed
+7,07/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,16:10:00,16:00:00,Friday,partly cloudy,28,0.25,low,1,G,none evident
+8,07/08/26,funsho williams avenue,unknown,16:11:00,16:00:00,Friday,partly cloudy,28,0.25,low,1,G,none evident
+9,07/08/26,lagos-ibadan expy,ojota-berger,17:03:00,17:00:00,Friday,partly sunny,28,0.15,low,1,G/Y,mixed
+10,07/08/26,apapa-oshodi expy,mile2-oshodi,17:04:00,17:00:00,Friday,partly sunny,28,0.15,low,1,G/Y,road segment
+11,07/08/26,lekki-epe expy,lekkiphase1-ajah,17:06:00,17:00:00,Friday,partly sunny,28,0.15,medium,2,Y/R,junction
+12,07/08/26,lagos-badagry expy,mile2-festac,17:08:00,17:00:00,Friday,partly sunny,28,0.15,low,1,G/Y/R,mixed
+13,07/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,17:10:00,17:00:00,Friday,partly sunny,28,0.15,low,1,G,none evident
+14,07/08/26,funsho williams avenue,unknown,17:11:00,17:00:00,Friday,partly sunny,28,0.15,low,1,G/Y,road segment
+15,07/08/26,third mainland bridge,oworonshole – adekunle,17:12:00,17:00:00,Friday,partly sunny,28,0.15,low,1,G,none evident
+16,07/08/26,ikorodu road,unknown,17:13:00,17:00:00,Friday,partly sunny,28,0.15,low,1,G,none evident
+17,07/08/26,lekki-epe expy,lekkiphase1-ajah,18:02:00,18:00:00,Friday,partly sunny,27,0.05,low,1,G,none evident
+18,07/08/26,lagos-badagry expy,mile2-festac,18:04:00,18:00:00,Friday,partly sunny,27,0.05,medium,2,G/Y,mixed
+19,07/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,18:06:00,18:00:00,Friday,partly sunny,27,0.05,medium,2,Y,road segment
+20,07/08/26,funsho williams avenue,unknown,18:07:00,18:00:00,Friday,partly sunny,27,0.05,low,1,G,road segment
+21,07/08/26,third mainland bridge,oworonshole – adekunle,18:08:00,18:00:00,Friday,partly sunny,27,0.05,low,1,G/Y,mixed
+22,07/08/26,ikorodu road,unknown,18:09:00,18:00:00,Friday,partly sunny,27,0.05,medium,2,Y,road segment
+23,07/08/26,lagos-ibadan expy,ojota – berger,18:10:00,18:00:00,Friday,partly sunny,27,0.05,low,1,G,none evident
+24,07/08/26,apapa-oshodi expy,mile2-oshodi,18:11:00,18:00:00,Friday,partly sunny,27,0.05,low,1,G,none evident
+25,07/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,19:00:00,19:00:00,Friday,mostly cloudy,27,0.1,medium,2,G/R,mixed
+26,07/08/26,funsho williams avenue,unknown,19:03:00,19:00:00,Friday,mostly cloudy,27,0.1,low,1,G,none evident
+27,07/08/26,third mainland bridge,oworonshole – adekunle,19:04:00,19:00:00,Friday,mostly cloudy,27,0.1,medium,2,G/Y,junction
+28,07/08/26,ikorodu road,unknown,19:05:00,19:00:00,Friday,mostly cloudy,27,0.1,low,1,G/Y/R,junction
+29,07/08/26,lagos-ibadan expy,ojota-berger,19:06:00,19:00:00,Friday,mostly cloudy,27,0.1,low,1,G/R,mixed
+30,07/08/26,apapa-oshodi expy,mile2-oshodi,19:07:00,19:00:00,Friday,mostly cloudy,27,0.1,low,1,G,none evident
+31,07/08/26,lekki-epe expy,lekkiphase1-ajah,19:09:00,19:00:00,Friday,mostly cloudy,27,0.1,medium,2,G/Y/R,road segment
+32,07/08/26,lagos-badagry expy,mile2-festac,19:11:00,19:00:00,Friday,mostly cloudy,27,0.1,medium,2,G/Y,mixed
+33,08/08/26,ikorodu road,unknown,07:00:00,07:00:00,Saturday,light rain,24,0.2,low,1,G/Y/R,junction
+34,08/08/26,third mainland bridge,oworonshole – adekunle,07:01:00,07:00:00,Saturday,light rain,24,0.2,low,1,G/Y,junction
+35,08/08/26,apapa-oshodi expy,mile2-oshodi,07:02:00,07:00:00,Saturday,light rain,24,0.2,low,1,G,none evident
+36,08/08/26,lagos-ibadan expy,ojota-berger,07:03:00,07:00:00,Saturday,light rain,24,0.2,low,1,G/R,road segment
+37,08/08/26,lagos-badagry expy,mile2-festac,07:04:00,07:00:00,Saturday,light rain,24,0.2,low,1,G,none evident
+38,08/08/26,lekki-epe expy,lekkiphase1-ajah,07:06:00,07:00:00,Saturday,light rain,24,0.2,low,1,G/Y,road segment
+39,08/08/26,funsho williams avenue,unknown,07:08:00,07:00:00,Saturday,light rain,24,0.2,low,1,G/R,junction
+40,08/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,07:09:00,07:00:00,Saturday,light rain,24,0.2,low,1,Y/R,mixed
+41,08/08/26,apapa-oshodi expy,mile2-oshodi,08:04:00,08:00:00,Saturday,light rain,24,0.2,low,1,G,none evident
+42,08/08/26,lagos-ibadan expy,ojota-berger,08:05:00,08:00:00,Saturday,light rain,24,0.2,low,1,Y/R,mixed
+43,08/08/26,lagos-badagry expy,mile2-festac,08:06:00,08:00:00,Saturday,light rain,24,0.2,medium,2,G,road segment
+44,08/08/26,lekki-epe expy,lekkiphase1-ajah,08:07:00,08:00:00,Saturday,light rain,24,0.2,low,1,G/Y,junction
+45,08/08/26,funsho williams avenue,unknown,08:08:00,08:00:00,Saturday,light rain,24,0.2,low,1,Y/R,mixed
+46,08/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,08:09:00,08:00:00,Saturday,light rain,24,0.2,medium,2,G/Y/R,mixed
+47,08/08/26,ikorodu road,unknown,08:10:00,08:00:00,Saturday,light rain,24,0.2,low,1,G/Y/R,mixed
+48,08/08/26,third mainland bridge,oworonshole – adekunle,08:11:00,08:00:00,Saturday,light rain,24,0.2,low ,1,G/Y,junction
+49,08/08/26,lagos-badagry expy,mile2-festac,09:06:00,09:00:00,Saturday,cloudy,25,0.1,medium,2,Y,none evident
+50,08/08/26,lekki-epe expy,lekkiphase1-ajah,09:07:00,09:00:00,Saturday,cloudy,25,0.1,low,1,G/Y/R,mixed
+51,08/08/26,funsho williams avenue,unknown,09:08:00,09:00:00,Saturday,cloudy,25,0.1,low,1,G/Y/R,junction
+52,08/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,09:09:00,09:00:00,Saturday,cloudy,25,0.1,low,1,G/Y/R,mixed
+53,08/08/26,ikorodu road,unknown,09:10:00,09:00:00,Saturday,cloudy,25,0.1,low,1,G/Y/R,road segment
+54,08/08/26,third mainland bridge,oworonshole – adekunle,09:11:00,09:00:00,Saturday,cloudy,25,0.1,low,1,G,none evident
+55,08/08/26,apapa-oshodi expy,mile2-oshodi,09:12:00,09:00:00,Saturday,cloudy,25,0.1,low,1,G/Y,road segment
+56,08/08/26,lagos-ibadan expy,ojota-berger,09:13:00,09:00:00,Saturday,cloudy,25,0.1,medium,2,Y/R,road segment
+57,08/08/26,third mainland bridge,oworonshole – adekunle,16:01:00,16:00:00,Saturday,light rain,27,0.2,low,1,G/Y/R,road segment
+58,08/08/26,ikorodu road,unknown,16:02:00,16:00:00,Saturday,light rain,27,0.2,medium,2,Y/R,mixed
+59,08/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,16:02:00,16:00:00,Saturday,light rain,27,0.2,medium,2,Y/R,mixed
+60,08/08/26,funsho williams avenue,unknown,16:03:00,16:00:00,Saturday,light rain,27,0.2,low,1,G/Y,road segment
+61,08/08/26,lagos-ibadan expy,ojota-berger,16:04:00,16:00:00,Saturday,light rain,27,0.2,low,1,G,none evident
+62,08/08/26,apapa-oshodi expy,mile2-oshodi,16:05:00,16:00:00,Saturday,light rain,27,0.2,medium,2,Y/R,road segment
+63,08/08/26,lekki-epe expy,lekkiphase1-ajah,16:06:00,16:00:00,Saturday,light rain,27,0.2,low,1,G/Y,road segment
+64,08/08/26,lagos-badagry expy,mile2-festac,16:07:00,16:00:00,Saturday,light rain,27,0.2,medium,2,Y,none evident
+65,08/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,17:15:00,17:00:00,Saturday,mostly cloudy,27,0.1,medium,2,Y/R,road segment
+66,08/08/26,funsho williams avenue,unknown,17:15:00,17:00:00,Saturday,mostly cloudy,27,0.1,low,1,G,none evident
+67,08/08/26,lagos-ibadan expy,ojota-berger,17:20:00,17:00:00,Saturday,mostly cloudy,27,0.1,low,1,G/Y,road segment
+68,08/08/26,apapa-oshodi expy,mile2-oshodi,17:21:00,17:00:00,Saturday,mostly cloudy,27,0.1,low,1,G/Y/R,mixed
+69,08/08/26,lekki-epe expy,lekkiphase1-ajah,17:22:00,17:00:00,Saturday,mostly cloudy,27,0.1,low,1,G/Y,road segment
+70,08/08/26,lagos-badagry expy,mile2-festac,17:23:00,17:00:00,Saturday,mostly cloudy,27,0.1,low,1,G,none evident
+71,08/08/26,third mainland bridge,oworonshole – adekunle,17:23:00,17:00:00,Saturday,mostly cloudy,27,0.1,low,1,G,none evident
+72,08/08/26,ikorodu road,unknown,17:24:00,17:00:00,Saturday,mostly cloudy,27,0.1,low,1,G/Y/R,road segment
+73,08/08/26,lagos-ibadan expy,ojota-berger,18:12:00,18:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y/R,road segment
+74,08/08/26,apapa-oshodi expy,mile2-oshodi,18:13:00,18:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/R,junction
+75,08/08/26,lekki-epe expy,lekkiphase1-ajah,18:14:00,18:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y,road segment
+76,08/08/26,lagos-badagry expy,mile2-festac,18:16:00,18:00:00,Saturday,mostly cloudy,26,0.1,medium,2,Y/R,junction
+77,08/08/26,third mainland bridge,oworonshole – adekunle,18:17:00,18:00:00,Saturday,mostly cloudy,26,0.1,low,1,G,none evident
+78,08/08/26,ikorodu road,unknown,18:17:00,18:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y/R,mixed
+79,08/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,18:18:00,18:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y/R,mixed
+80,08/08/26,funsho williams avenue,unknown,18:19:00,18:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y/R,junction
+81,08/08/26,lekki-epe expy,lekkiphase1-ajah,19:03:00,19:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y,road segment
+82,08/08/26,lagos-badagry expy,mile2-festac,19:04:00,19:00:00,Saturday,mostly cloudy,26,0.1,medium,2,Y/R,junction
+83,08/08/26,third mainland bridge,oworonshole – adekunle,19:04:00,19:00:00,Saturday,mostly cloudy,26,0.1,low,1,G,none evident
+84,08/08/26,ikorodu road,unknown,19:05:00,19:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y,road segment
+85,08/08/26,lagos-abeokuta expy,abule egba-iyana ipaja,19:06:00,19:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y/R,road segment
+86,08/08/26,funsho williams avenue,unknown,19:07:00,19:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y,road segment
+87,08/08/26,lagos-ibadan expy,ojota-berger,19:08:00,19:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y,road segment
+88,08/08/26,apapa-oshodi expy,mile2-oshodi,19:09:00,19:00:00,Saturday,mostly cloudy,26,0.1,low,1,G/Y,junction
+89,09/09/26,funsho williams avenue,unknown,07:10:00,07:00:00,Sunday,light rain,24,0.2,low,1,G,none evident
+90,09/09/26,Lagos-abeokuta,abule egba-iyana ipaja,07:11:00,07:00:00,Sunday,light rain,24,0.2,low,1,G/Y,road segment
+91,09/09/26,lagos-ibadan expy,ojota-berger,07:12:00,07:00:00,Sunday,light rain,24,0.2,low,1,G,none evident
+92,09/09/26,apapa-oshodi expy,mile2-oshodi,07:12:00,07:00:00,Sunday,light rain,24,0.2,low,1,G,none evident
+93,09/09/26,lekki-epe expy,lekkiphase1-ajah,07:13:00,07:00:00,Sunday,light rain,24,0.2,low,1,G,none evident
+94,09/09/26,lagos-badagry expy,mile2-festac,07:14:00,07:00:00,Sunday,light rain,24,0.2,low,1,G,none evident
+95,09/09/26,ikorodu road,unknown,07:15:00,07:00:00,Sunday,light rain,24,0.2,low,1,G/Y,road segment
+96,09/09/26,third mainland bridge,oworonshole – adekunle,07:15:00,07:00:00,Sunday,light rain,24,0.2,low,1,G,none evident
+97,09/09/26,funsho williams avenue,unknown,08:03:00,08:00:00,Sunday,light rain,25,0.2,low,1,G,none evident
+98,09/09/26,Lagos-abeokuta,abule egba-iyana ipaja,08:04:00,08:00:00,Sunday,light rain,25,0.2,low,1,G/Y,road segment
+99,09/09/26,lagos-ibadan expy,ojota-berger,08:05:00,08:00:00,Sunday,light rain,25,0.2,low,1,G,none evident
+100,09/09/26,apapa-oshodi expy,mile2-oshodi,08:05:00,08:00:00,Sunday,light rain,25,0.2,low,1,G,none evident
+101,09/09/26,lekki-epe expy,lekkiphase1-ajah,08:06:00,08:00:00,Sunday,light rain,25,0.2,low,1,G/Y,road segment
+102,09/09/26,lagos-badagry expy,mile2-festac,08:06:00,08:00:00,Sunday,light rain,25,0.2,low,1,G/R,road segment
+103,09/09/26,ikorodu road,unknown,08:07:00,08:00:00,Sunday,light rain,25,0.2,low,1,G/Y/R,mixed
+104,09/09/26,third mainland bridge,oworonshole – adekunle,08:07:00,08:00:00,Sunday,light rain,25,0.2,low,1,G,none evident
+105,09/09/26,lagos-ibadan expy,ojota-berger,09:06:00,09:00:00,Sunday,light rain,26,0.2,low,1,G/Y,road segment
+106,09/09/26,apapa-oshodi expy,mile2-oshodi,09:07:00,09:00:00,Sunday,light rain,26,0.2,low,1,G,none evident
+107,09/09/26,lekki-epe expy,lekkiphase1-ajah,09:07:00,09:00:00,Sunday,light rain,26,0.2,low,1,G,none evident
+108,09/09/26,lagos-badagry expy,mile2-festac,09:07:00,09:00:00,Sunday,light rain,26,0.2,low,1,G/Y,road segment
+109,09/09/26,ikorodu road,unknown,09:08:00,09:00:00,Sunday,light rain,26,0.2,low,1,G/Y/R,mixed
+110,09/09/26,third mainland bridge,oworonshole – adekunle,09:08:00,09:00:00,Sunday,light rain,26,0.2,low,1,G,none evident
+111,09/09/26,funsho williams avenue,unknown,09:08:00,09:00:00,Sunday,light rain,26,0.2,low,1,G,none evident
+112,09/09/26,Lagos-abeokuta,abule egba-iyana ipaja,09:09:00,09:00:00,Sunday,light rain,26,0.2,low,1,G/Y,road segment
+113,11/09/26,third mainland bridge,oworonshole – adekunle,07:01:00,07:00:00,Tuesday,mostly cloudy,24,0.1,medium,2,G/Y/R,mixed
+114,11/09/26,ikorodu road,unknown,07:02:00,07:00:00,Tuesday,mostly cloudy,24,0.1,medium,2,Y/R,mixed
+115,11/09/26,funsho williams avenue,unknown,07:02:00,07:00:00,Tuesday,mostly cloudy,24,0.1,low,1,G/Y/R,road segment
+116,11/09/26,Lagos-abeokuta,abule egba-iyana ipaja,07:03:00,07:00:00,Tuesday,mostly cloudy,24,0.1,low,1,G/Y/R,mixed
+117,11/09/26,apapa-oshodi expy,mile2-oshodi,07:03:00,07:00:00,Tuesday,mostly cloudy,24,0.1,low,1,G,none evident
+118,11/09/26,lagos-ibadan expy,ojota-berger,07:04:00,07:00:00,Tuesday,mostly cloudy,24,0.1,low,1,G,none evident
+119,11/09/26,lagos-badagry expy,mile2-festac,07:04:00,07:00:00,Tuesday,mostly cloudy,24,0.1,medium,2,G/Y,none evident
+120,11/09/26,lekki-epe expy,lekkiphase1-ajah,07:05:00,07:00:00,Tuesday,mostly cloudy,24,0.1,low,1,G/Y/R,road segment
+121,11/09/26,third mainland bridge,oworonshole – adekunle,08:02:00,08:00:00,Tuesday,mostly cloudy,25,0.1,low,1,G/Y/R,mixed
+122,11/09/26,ikorodu road,unknown,08:02:00,08:00:00,Tuesday,mostly cloudy,25,0.1,low,1,G/Y/R,road segment
+123,11/09/26,funsho williams avenue,unknown,08:02:00,08:00:00,Tuesday,mostly cloudy,25,0.1,low,1,G/Y/R,road segment
+124,11/09/26,Lagos-abeokuta,abule egba-iyana ipaja,08:03:00,08:00:00,Tuesday,mostly cloudy,25,0.1,medium,2,G/Y/R,road segment
+125,11/09/26,apapa-oshodi expy,mile2-oshodi,08:04:00,08:00:00,Tuesday,mostly cloudy,25,0.1,low,1,G/Y,junction
+126,11/09/26,lagos-ibadan expy,ojota-berger,08:05:00,08:00:00,Tuesday,mostly cloudy,25,0.1,low,1,G/Y/R,mixed
+127,11/09/26,lagos-badagry expy,mile2-festac,08:06:00,08:00:00,Tuesday,mostly cloudy,25,0.1,low,1,G/Y/R,mixed
+128,11/09/26,lekki-epe expy,lekkiphase1-ajah,08:07:00,08:00:00,Tuesday,mostly cloudy,25,0.1,low,1,G/Y/R,road segment
+129,11/09/26,funsho williams avenue,unknown,09:22:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G/Y,road segment
+130,11/09/26,Lagos-abeokuta,abule egba-iyana ipaja,09:23:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G/Y,road segment
+131,11/09/26,apapa-oshodi expy,mile2-oshodi,09:24:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+132,11/09/26,lagos-ibadan expy,ojota-berger,09:25:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G,none evident
+133,11/09/26,lagos-badagry expy,mile2-festac,09:25:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+134,11/09/26,lekki-epe expy,lekkiphase1-ajah,09:26:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+135,11/09/26,third mainland bridge,oworonshole – adekunle,09:27:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G,none evident
+136,11/09/26,ikorodu road,unknown,09:27:00,09:00:00,Tuesday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+137,11/09/26,lekki-epe expy,lekkiphase1-ajah,16:02:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/Y/R,road segment
+138,11/09/26,lagos-badagry expy,mile2-festac,16:03:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/Y,road segment
+139,11/09/26,lagos-ibadan expy,ojota-berger,16:03:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/Y,road segment
+140,11/09/26,apapa-oshodi expy,mile2-oshodi,16:03:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/Y,road segment
+141,11/09/26,third mainland bridge,oworonshole – adekunle,16:04:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/R,mixed
+142,11/09/26,ikorodu road,unknown,16:04:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/Y,mixed
+143,11/09/26,Lagos-abeokuta,abule egba-iyana ipaja,16:05:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/Y/R,mixed
+144,11/09/26,funsho williams avenue,unknown,16:05:00,16:00:00,Tuesday,cloudy,26,0.1,low,1,G/Y/R,mixed
+145,11/09/26,lekki-epe expy,lekkiphase1-ajah,17:02:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y,road segment
+146,11/09/26,lagos-badagry expy,mile2-festac,17:03:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y/R,road segment
+147,11/09/26,lagos-ibadan expy,ojota-berger,17:03:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y,mixed
+148,11/09/26,apapa-oshodi expy,mile2-oshodi,17:04:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y/R,mixed
+149,11/09/26,third mainland bridge,oworonshole – adekunle,17:04:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y,road segment
+150,11/09/26,ikorodu road,unknown,17:05:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y/R,mixed
+151,11/09/26,Lagos-abeokuta,abule egba-iyana ipaja,17:05:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y/R,mixed
+152,11/09/26,funsho williams avenue,unknown,17:06:00,17:00:00,Tuesday,cloudy,25,0.1,low,1,G/Y,mixed
+153,11/09/26,lagos-ibadan expy,ojota-berger,18:09:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y/R,mixed
+154,11/09/26,apapa-oshodi expy,mile2-oshodi,18:09:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y/R,junction
+155,11/09/26,third mainland bridge,oworonshole – adekunle,18:10:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y/R,mixed
+156,11/09/26,ikorodu road,unknown,18:10:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y/R,mixed
+157,11/09/26,Lagos-abeokuta,abule egba-iyana ipaja,18:11:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y/R,mixed
+158,11/09/26,funsho williams avenue,unknown,18:11:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y/R,road segment
+159,11/09/26,lekki-epe expy,lekkiphase1-ajah,18:11:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y,road segment
+160,11/09/26,lagos-badagry expy,mile2-festac,18:13:00,18:00:00,Tuesday,mostly cloudy,25,0.2,low,1,G/Y/R,mixed
+161,11/09/26,lagos-ibadan expy,ojota-berger,19:17:00,19:00:00,Tuesday,mostly cloudy,24,0.2,low,1,G/Y/R,junction
+162,11/09/26,apapa-oshodi expy,mile2-oshodi,19:18:00,19:00:00,Tuesday,mostly cloudy,24,0.2,low,1,G/Y/R,mixed
+163,11/09/26,third mainland bridge,oworonshole – adekunle,19:18:00,19:00:00,Tuesday,mostly cloudy,24,0.2,low,1,G/Y/R,mixed
+164,11/09/26,ikorodu road,unknown,19:19:00,19:00:00,Tuesday,mostly cloudy,24,0.2,low,1,G/Y/R,mixed
+165,11/09/26,Lagos-abeokuta,abule egba-iyana ipaja,19:19:00,19:00:00,Tuesday,mostly cloudy,24,0.2,low,1,G/Y/R,mixed
+166,11/09/26,funsho williams avenue,unknown,19:20:00,19:00:00,Tuesday,mostly cloudy,24,0.2,low,1,G/Y,road segment
+167,11/09/26,lekki-epe expy,lekkiphase1-ajah,19:20:00,19:00:00,Tuesday,mostly cloudy,24,0.2,medium,2,G/Y/R,road segment
+168,11/09/26,lagos-badagry expy,mile2-festac,19:21:00,19:00:00,Tuesday,mostly cloudy,24,0.2,low,1,G/Y/R,mixed
+169,12/09/26,lekki-epe expy,lekkiphase1-ajah,07:06:00,07:00:00,Wednesday,partly sunny,24,0.1,low,1,G/Y/R,road segment
+170,12/09/26,lagos-badagry expy,mile2-festac,07:06:00,07:00:00,Wednesday,partly sunny,24,0.1,low,1,G/Y,road segment
+171,12/09/26,apapa-oshodi expy,mile2-oshodi,07:06:00,07:00:00,Wednesday,partly sunny,24,0.1,low,1,G,none evident
+172,12/09/26,lagos-ibadan expy,ojota-berger,07:06:00,07:00:00,Wednesday,partly sunny,24,0.1,low,1,G/Y,junction
+173,12/09/26,funsho williams avenue,unknown,07:07:00,07:00:00,Wednesday,partly sunny,24,0.1,medium,2,Y/R,mixed
+174,12/09/26,Lagos-abeokuta,abule egba-iyana ipaja,07:07:00,07:00:00,Wednesday,partly sunny,24,0.1,low,1,G/Y/R,mixed
+175,12/09/26,third mainland bridge,oworonshole – adekunle,07:08:00,07:00:00,Wednesday,partly sunny,24,0.1,high,3,Y/R,road segment
+176,12/09/26,ikorodu road,unknown,07:08:00,07:00:00,Wednesday,partly sunny,24,0.1,low,1,G/Y/R,road segment
+177,13/09/26,lekki-epe expy,lekkiphase1-ajah,07:22:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G/Y/R,road segment
+178,13/09/26,lagos-badagry expy,mile2-festac,07:23:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G/Y,road segment
+179,13/09/26,apapa-oshodi expy,mile2-oshodi,07:24:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G,none evident
+180,13/09/26,lagos-ibadan expy,ojota-berger,07:24:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G,none evident
+181,13/09/26,funsho williams avenue,unknown,07:25:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G/Y,junction
+182,13/09/26,Lagos-abeokuta,abule egba-iyana ipaja,07:25:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G/Y/R,mixed
+183,13/09/26,third mainland bridge,oworonshole – adekunle,07:25:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G/Y,road segment
+184,13/09/26,ikorodu road,unknown,07:26:00,07:00:00,Thursday,heavy rain,23,0.5,low,1,G/Y/R,mixed
+185,13/09/26,apapa-oshodi expy,mile2-oshodi,08:19:00,08:00:00,Thursday,light rain,24,0.3,low,1,G/Y,junction
+186,13/09/26,lagos-ibadan expy,ojota-berger,08:21:00,08:00:00,Thursday,light rain,24,0.3,low,1,G,none evident
+187,13/09/26,funsho williams avenue,unknown,08:22:00,08:00:00,Thursday,light rain,24,0.3,low,1,G/Y/R,road segment
+188,13/09/26,Lagos-abeokuta,abule egba-iyana ipaja,08:23:00,08:00:00,Thursday,light rain,24,0.3,low,1,G/Y/R,mixed
+189,13/09/26,third mainland bridge,oworonshole – adekunle,08:40:00,08:00:00,Thursday,light rain,24,0.3,low,1,G/Y/R,mixed
+190,13/09/26,ikorodu road,unknown,08:40:00,08:00:00,Thursday,light rain,24,0.3,low,1,G/R,road segment
+191,13/09/26,lekki-epe expy,lekkiphase1-ajah,08:40:00,08:00:00,Thursday,light rain,24,0.3,low,1,G/Y,road segment
+192,13/09/26,lagos-badagry expy,mile2-festac,08:41:00,08:00:00,Thursday,light rain,24,0.3,low,1,G/Y,road segment
+193,14/09/26,apapa-oshodi expy,mile2-oshodi,07:04:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G,none evident
+194,14/09/26,lagos-ibadan expy,ojota-berger,07:04:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G,none evident
+195,14/09/26,funsho williams avenue,unknown,07:05:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G/Y,road segment
+196,14/09/26,Lagos-abeokuta,abule egba-iyana ipaja,07:05:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G/Y/R,mixed
+197,14/09/26,third mainland bridge,oworonshole – adekunle,07:05:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G/Y/R,mixed
+198,14/09/26,ikorodu road,unknown,07:06:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G/Y/R,mixed
+199,14/09/26,lekki-epe expy,lekkiphase1-ajah,07:06:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G/Y,road segment
+200,14/09/26,lagos-badagry expy,mile2-festac,07:07:00,07:00:00,Friday,partly sunny,25,0.1,low,1,G/Y/R,road segment
+201,14/09/26,funsho williams avenue,unknown,08:07:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G,none evident
+202,14/09/26,Lagos-abeokuta,abule egba-iyana ipaja,08:07:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G/Y/R,mixed
+203,14/09/26,third mainland bridge,oworonshole – adekunle,08:08:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G,none evident
+204,14/09/26,ikorodu road,unknown,08:08:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G/Y/R,mixed
+205,14/09/26,lekki-epe expy,lekkiphase1-ajah,08:09:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+206,14/09/26,lagos-badagry expy,mile2-festac,08:09:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+207,14/09/26,apapa-oshodi expy,mile2-oshodi,08:10:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G,none evident
+208,14/09/26,lagos-ibadan expy,ojota-berger,08:10:00,08:00:00,Friday,partly sunny,26,0.1,low,1,G,none evident
+209,14/09/26,funsho williams avenue,unknown,09:02:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G/R,mixed
+210,14/09/26,Lagos-abeokuta,abule egba-iyana ipaja,09:03:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+211,14/09/26,third mainland bridge,oworonshole – adekunle,09:03:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G,none evident
+212,14/09/26,ikorodu road,unknown,09:04:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G/Y/R,road segment
+213,14/09/26,lekki-epe expy,lekkiphase1-ajah,09:04:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G/Y,road segment
+214,14/09/26,lagos-badagry expy,mile2-festac,09:05:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G,none evident
+215,14/09/26,apapa-oshodi expy,mile2-oshodi,09:05:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G/Y,junction
+216,14/09/26,lagos-ibadan expy,ojota-berger,09:05:00,09:00:00,Friday,partly sunny,26,0.1,low,1,G/Y,junction
+217,15/09/26,third mainland bridge,oworonshole – adekunle,07:18:00,07:00:00,Monday,,,,high,3,G/Y,road segment
+218,15/09/26,ikorodu road,unknown,07:18:00,07:00:00,Monday,,,,medium,2,R,mixed
+219,15/09/26,lekki-epe expy,lekkiphase1-ajah,07:19:00,07:00:00,Monday,,,,low,1,G/Y/R,road segment
+220,15/09/26,lagos-badagry expy,mile2-festac,07:19:00,07:00:00,Monday,,,,low,1,G/Y/R,road segment
+221,15/09/26,apapa-oshodi expy,mile2-oshodi,07:19:00,07:00:00,Monday,,,,low,1,G,none evident
+222,15/09/26,funsho williams avenue,unknown,07:20:00,07:00:00,Monday,,,,low,1,G/Y/R,road segment
+223,15/09/26,Lagos-abeokuta,abule egba-iyana ipaja,07:20:00,07:00:00,Monday,,,,medium,2,Y/R,mixed
+224,15/09/26,lagos-ibadan expy,ojota-berger,07:21:00,07:00:00,Monday,,,,low,1,G,none evident
+225,15/09/26,third mainland bridge,oworonshole – adekunle,08:00:00,08:00:00,Monday,,,,high,3,G/Y/R,road segment
+226,15/09/26,ikorodu road,unknown,08:00:00,08:00:00,Monday,,,,medium,2,Y/R,mixed
+227,15/09/26,lekki-epe expy,lekkiphase1-ajah,08:00:00,08:00:00,Monday,,,,low,1,G/Y/R,road segment
+228,15/09/26,lagos-badagry expy,mile2-festac,08:01:00,08:00:00,Monday,,,,medium,2,G/Y/R,mixed
+229,15/09/26,apapa-oshodi expy,mile2-oshodi,08:01:00,08:00:00,Monday,,,,low,1,G/Y,road segment
+230,15/09/26,funsho williams avenue,unknown,08:02:00,08:00:00,Monday,,,,low,1,G/Y/R,mixed
+231,15/09/26,Lagos-abeokuta,abule egba-iyana ipaja,08:02:00,08:00:00,Monday,,,,low,1,G/Y/R,road segment
+232,15/09/26,lagos-ibadan expy,ojota-berger,08:02:00,08:00:00,Monday,,,,low,1,G/Y,road segment
+233,15/09/26,lekki-epe expy,lekkiphase1-ajah,16:17:00,16:00:00,Monday,cloudy,29,0.2,medium,2,G/Y/R,road segment
+234,15/09/26,lagos-badagry expy,mile2-festac,16:18:00,16:00:00,Monday,cloudy,29,0.2,low,1,G/Y,road segment
+235,15/09/26,apapa-oshodi expy,mile2-oshodi,16:18:00,16:00:00,Monday,cloudy,29,0.2,low,1,G,none evident
+236,15/09/26,funsho williams avenue,unknown,16:19:00,16:00:00,Monday,cloudy,29,0.2,low,1,G/Y,road segment
+237,15/09/26,Lagos-abeokuta,abule egba-iyana ipaja,16:19:00,16:00:00,Monday,cloudy,29,0.2,low,1,G/Y/R,mixed
+238,15/09/26,lagos-ibadan expy,ojota-berger,16:20:00,16:00:00,Monday,cloudy,29,0.2,low,1,G,none evident
+239,15/09/26,third mainland bridge,oworonshole – adekunle,16:20:00,16:00:00,Monday,cloudy,29,0.2,low,1,G/Y,road segment
+240,15/09/26,ikorodu road,unknown,16:20:00,16:00:00,Monday,cloudy,29,0.2,low,1,G/Y/R,road segment
+241,15/09/26,lekki-epe expy,lekkiphase1-ajah,17:21:00,17:00:00,Monday,cloudy,29,0.3,medium,2,G/Y/R,mixed
+242,15/09/26,lagos-badagry expy,mile2-festac,17:22:00,17:00:00,Monday,cloudy,29,0.3,low,1,G/Y/R,mixed
+243,15/09/26,apapa-oshodi expy,mile2-oshodi,17:22:00,17:00:00,Monday,cloudy,29,0.3,low,1,G/Y/R,junction
+244,15/09/26,funsho williams avenue,unknown,17:23:00,17:00:00,Monday,cloudy,29,0.3,high,3,Y/R,mixed
+245,15/09/26,Lagos-abeokuta,abule egba-iyana ipaja,17:23:00,17:00:00,Monday,cloudy,29,0.3,high,3,Y/R,mixed
+246,15/09/26,lagos-ibadan expy,ojota-berger,17:23:00,17:00:00,Monday,cloudy,29,0.3,low,1,G/Y/R,road segment
+247,15/09/26,third mainland bridge,oworonshole – adekunle,17:25:00,17:00:00,Monday,cloudy,29,0.3,medium,2,Y/R,road segment
+248,15/09/26,ikorodu road,unknown,17:26:00,17:00:00,Monday,cloudy,29,0.3,medium,2,G/Y/R,junction
